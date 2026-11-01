@@ -6,7 +6,7 @@ ToS-Scanner is an NLP-based unfair clause extractor for Terms of Service. It rea
 
 This repository holds the project website (`index.html`), a single self-contained page with a live browser demo.
 
-**Live site:** https://kartikeykanyal-dotcom.github.io/ToS-scanner/
+**Live site:** file:///C:/dev/tos/index.html
 
 ## Try the demo
 
